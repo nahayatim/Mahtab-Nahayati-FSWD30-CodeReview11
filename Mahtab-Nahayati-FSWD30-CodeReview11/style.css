@@ -1,0 +1,43 @@
+/* style.css */
+body{
+	background-image: url('img/car location.jpg');
+	background-size: 100%;
+}
+header{
+	background-color:#8A031B; 
+	min-height: 130px;
+	height: auto;
+	padding-top: 10px;
+	padding-left: 10%;
+}
+
+
+
+.box{
+	background-color: rgba(255,255,255,0.5);
+	margin: 5px;
+	padding: 5px;
+	padding-top: 20px;
+	color: black;
+	min-height: 450px;
+	border-radius: 20px;
+}
+/* TABLE_______________________________________ */
+table{
+	margin-top: 20px;
+}
+th{
+	background-color:dimgray ;
+}
+td{
+	background-color: rgba(255,255,255,0.6);
+}
+/* FOOTER_________________________ */
+footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #8A031B ;
+	text-align: center;
+}
